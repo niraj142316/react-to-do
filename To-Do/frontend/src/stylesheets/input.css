@@ -1,0 +1,28 @@
+
+.container{
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+}
+
+.form{
+    padding: 0 50px;
+}
+
+.form-wrapper{
+    display: flex;
+    justify-content: space-between;
+}
+
+.input{
+    flex: 1;
+    margin-inline-end: 10px;
+}
+
+.btn{
+    inline-size: 150px;
+    margin-inline-start: 10px;
+}
+.btnl{
+    margin: 5px auto;
+}

@@ -1,0 +1,9 @@
+.container-fluid{
+    background: blue;
+    padding: 15px 0;
+    color: #fafafa;
+}
+
+.container h5{
+    color: #fafafa;
+}
